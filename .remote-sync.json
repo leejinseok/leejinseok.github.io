@@ -4,7 +4,7 @@
   "deleteLocal": true,
   "hostname": "192.168.123.108",
   "port": "22",
-  "target": "/home/seok/monochrome/",
+  "target": "/home/seok/leejinseok.github.io/",
   "ignore": [
     ".remote-sync.json",
     ".git/**"
