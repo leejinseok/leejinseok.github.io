@@ -1,0 +1,16 @@
+{
+  "uploadOnSave": true,
+  "useAtomicWrites": true,
+  "deleteLocal": true,
+  "hostname": "192.168.123.108",
+  "port": "22",
+  "target": "/home/seok/monochrome/",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "seok",
+  "password": "aormfl123",
+  "watch": [],
+  "transport": "scp"
+}
